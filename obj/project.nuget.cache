@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jTFRiJIBdha/4M/zs+Z4HN6ntZYxW5G7M9y/gZAM9lxG4M8YqPt3lBhgaQv5XImwm5AjPyZQ6c+01BfP6gjdjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fotters\\source\\repos\\WpfEjednevnik\\WpfEjednevnik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fotters\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
